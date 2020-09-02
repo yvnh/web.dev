@@ -42,7 +42,7 @@ This is a dilemma for the web. How can we support legitimate third-party use cas
 
 In particular, how can websites fund content by enabling third parties to show ads and measure ad performance—but not allow individual users to be profiled? How can advertisers verify real users, and site owners check that users are trustworthy, without resorting to dark patterns such as device fingerprinting?
 
-The way things work at the moment can be problematic for everyone concerned, not just users. For publishers and advertisers, tracking identity and using a variety of non-native, un-standardised third-party solutions can add to technical debt, code complexity and data risk.
+The way things work at the moment can be problematic for everyone concerned, not just users. For publishers and advertisers, tracking identity and using a variety of un-standardised third-party solutions can add to technical debt, code complexity and data risk.
 
 Users, developers, publishers, and advertisers shouldn't have to worry.
 
